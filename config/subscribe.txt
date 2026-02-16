@@ -1,8 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-
-
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 
 
 [WHITELIST]
